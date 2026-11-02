@@ -4,7 +4,7 @@ Web interactiva de la ruta geològica urbana de Talarn. Onze parades, onze pedre
 
 Projecte de l'**Ajuntament de Talarn** en col·laboració amb el **Geoparc Mundial UNESCO Orígens**.
 
-🌐 **Web:** https://ajuntament-talarn.github.io/ruta-urbana/
+🌐 **Web:** https://ajuntament-talarn.github.io/ruta-talarn/
 
 ---
 
@@ -35,11 +35,11 @@ La web inclou també els **panells interpretatius** físics instal·lats a les p
 ## URLs de les parades
 
 ```
-Portada      →  https://ajuntament-talarn.github.io/ruta-urbana/
-Parada 1     →  https://ajuntament-talarn.github.io/ruta-urbana/?p=1
-Parada 11    →  https://ajuntament-talarn.github.io/ruta-urbana/?p=11
-En francès   →  https://ajuntament-talarn.github.io/ruta-urbana/?p=3&l=fr
-Panells      →  https://ajuntament-talarn.github.io/ruta-urbana/?view=panells
+Portada      →  https://ajuntament-talarn.github.io/ruta-talarn/
+Parada 1     →  https://ajuntament-talarn.github.io/ruta-talarn/?p=1
+Parada 11    →  https://ajuntament-talarn.github.io/ruta-talarn/?p=11
+En francès   →  https://ajuntament-talarn.github.io/ruta-talarn/?p=3&l=fr
+Panells      →  https://ajuntament-talarn.github.io/ruta-talarn/?view=panells
 ```
 
 ## Manteniment
